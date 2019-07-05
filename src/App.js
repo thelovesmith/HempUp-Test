@@ -1,6 +1,5 @@
 import React from 'react';
 import { useSpring, animated } from "react-spring";
-import logo from './hempLogo.svg';
 import './App.css';
 
 function App() {
